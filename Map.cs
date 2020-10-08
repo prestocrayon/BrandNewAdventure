@@ -4,14 +4,10 @@ using System;
 
 namespace BrandNewAdventure
 {
-    class locations
+    
+    class Map
     {
-//Changed appearance of Console
-            Console.Title = "Adventure";
-            Console.ForegroundColor = ConsoleColor.Cyan;
-
-                //List of location descriptions
-            string[,] locationList = new string [10,10];
+string[,] locationList = new string [10,10];
             //Question 1 (answers in below code for this one)
 //won't generate a map?????
                 locationList[0,0] = "\nYou begin your journey. It's a beautiful day outside," +
@@ -65,6 +61,10 @@ namespace BrandNewAdventure
                                 "\n\"Hmmmm yes. This stone is a form of Ogre currency. Just enough to pay for a room at the inn.\n\n"+
                                 locationList[9];
                 
-
     }
+
+                //List of location descriptions
+            
+
+    
 }

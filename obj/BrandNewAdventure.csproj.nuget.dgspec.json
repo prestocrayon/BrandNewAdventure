@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyes_\\Documents\\Coding\\BrandNewAdventure\\BrandNewAdventure.csproj": {}
+    "C:\\Users\\eyes_\\Desktop\\VFS\\T1 Assignments\\Programming\\GD60_Kit_\\BrandNewAdventure\\BrandNewAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyes_\\Documents\\Coding\\BrandNewAdventure\\BrandNewAdventure.csproj": {
+    "C:\\Users\\eyes_\\Desktop\\VFS\\T1 Assignments\\Programming\\GD60_Kit_\\BrandNewAdventure\\BrandNewAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyes_\\Documents\\Coding\\BrandNewAdventure\\BrandNewAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\eyes_\\Desktop\\VFS\\T1 Assignments\\Programming\\GD60_Kit_\\BrandNewAdventure\\BrandNewAdventure.csproj",
         "projectName": "BrandNewAdventure",
-        "projectPath": "C:\\Users\\eyes_\\Documents\\Coding\\BrandNewAdventure\\BrandNewAdventure.csproj",
+        "projectPath": "C:\\Users\\eyes_\\Desktop\\VFS\\T1 Assignments\\Programming\\GD60_Kit_\\BrandNewAdventure\\BrandNewAdventure.csproj",
         "packagesPath": "C:\\Users\\eyes_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyes_\\Documents\\Coding\\BrandNewAdventure\\obj\\",
+        "outputPath": "C:\\Users\\eyes_\\Desktop\\VFS\\T1 Assignments\\Programming\\GD60_Kit_\\BrandNewAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyes_\\AppData\\Roaming\\NuGet\\NuGet.Config"
