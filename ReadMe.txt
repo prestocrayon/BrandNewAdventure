@@ -2,6 +2,7 @@ Kit Houle
 username: gd60_Kit or prestocrayon
 Assignment title: BrandNewAdventure
 Application Title: GD60
+GitHub link: https://github.com/prestocrayon/BrandNewAdventure.git
 
 User input in order to continue the adventure.
 The adventure route ends when you get to locationList[9]; the inn, 
