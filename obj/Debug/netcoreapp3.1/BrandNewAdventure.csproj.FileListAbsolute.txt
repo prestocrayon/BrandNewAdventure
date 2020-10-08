@@ -1,0 +1,13 @@
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.exe
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.deps.json
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.runtimeconfig.json
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.runtimeconfig.dev.json
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.dll
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\bin\Debug\netcoreapp3.1\BrandNewAdventure.pdb
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.csprojAssemblyReference.cache
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.AssemblyInfoInputs.cache
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.AssemblyInfo.cs
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.csproj.CoreCompileInputs.cache
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.dll
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.pdb
+C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.genruntimeconfig.cache
