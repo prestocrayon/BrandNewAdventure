@@ -4,5 +4,8 @@ using System;
 
 namespace BrandNewAdventure
 {
-    
+    class locationList
+    {
+
+    }
 }

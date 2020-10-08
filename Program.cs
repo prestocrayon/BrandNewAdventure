@@ -8,6 +8,8 @@ namespace BrandNewAdventure
     {
         static void Main(string[] args)
         {
+            locationList newlocation = new locationList();
+
             //Changed appearance of Console
             Console.Title = "Adventure";
             Console.ForegroundColor = ConsoleColor.Cyan;
