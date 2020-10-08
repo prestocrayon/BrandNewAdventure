@@ -11,3 +11,9 @@ C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandN
 C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.dll
 C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.pdb
 C:\Users\eyes_\Documents\Coding\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.genruntimeconfig.cache
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.csprojAssemblyReference.cache
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.AssemblyInfoInputs.cache
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.AssemblyInfo.cs
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.csproj.CoreCompileInputs.cache
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.dll
+C:\Users\eyes_\Desktop\VFS\T1 Assignments\Programming\GD60_Kit_\BrandNewAdventure\obj\Debug\netcoreapp3.1\BrandNewAdventure.pdb
